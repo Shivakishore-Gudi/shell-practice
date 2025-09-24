@@ -10,4 +10,4 @@ echo "sum is: ${sum}"
 
 Leaders=("Modi" "Putin" "trumph")
 
-echo "all leaders: ${Leaders[@]}"
+echo "Best leaders: ${Leaders[0]}"
